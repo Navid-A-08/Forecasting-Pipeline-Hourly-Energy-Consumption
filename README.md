@@ -227,10 +227,6 @@ pipeline.models.load_model('xgboost', 'models/xgboost_model.joblib')
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Built with scikit-learn, XGBoost, and LightGBM
