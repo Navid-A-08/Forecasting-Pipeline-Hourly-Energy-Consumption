@@ -227,4 +227,4 @@ pipeline.models.load_model('xgboost', 'models/xgboost_model.joblib')
 
 ## License
 
-Free to use. You may use, copy, modify, and share this project for any purpose.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
